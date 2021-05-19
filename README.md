@@ -1,7 +1,11 @@
-# m3u8 视频在线提取工具([English version](https://github.com/Momo707577045/m3u8-downloader/blob/master/README-EN.md))
+# m3u8 视频在线提取工具([English version](https://github.com/lvjiangstudio/m3u8-downloader/blob/main/README-EN.md))
+
+TODO:
+- [ ] i18n
+- [ ] 整合好的ts文件下载完成后提示
 
 ![界面](http://upyun.luckly-mjw.cn/Assets/m3u8-download/01.jpeg)
-### [工具在线地址](http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html)，推荐使用 chrome 浏览器。
+### [工具在线地址](https://lvjiangstudio.github.io/index.html)，推荐使用 chrome 浏览器。
 
 ### 研发背景
 - m3u8视频格式简介
